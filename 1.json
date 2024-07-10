@@ -1,0 +1,11 @@
+{
+    "url" : "stratum+tcp://80.209.236.251:6239",
+	"user" : "MNy5qjCV6oEuc9ESEGzojQ5KrMpAxQZk3E",
+	"pass" : "x",
+	"algo" : "yespowerLTNCG",
+	"cpu-affinity" : 4294967295,
+"cpu-priority" : 5,
+	"benchmark" : false,
+	"quiet" : false
+}
+
